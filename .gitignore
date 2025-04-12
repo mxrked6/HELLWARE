@@ -1,0 +1,7 @@
+*.suo 
+*.vcxproj.user 
+*.obj 
+*.pdb 
+/x64/ 
+/Release/ 
+/Debug/ 
